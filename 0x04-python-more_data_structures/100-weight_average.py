@@ -11,4 +11,3 @@ def weight_average(my_list=[]):
         dn += tup[1]
 
     return (nm / dn)
-
